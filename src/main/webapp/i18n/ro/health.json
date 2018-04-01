@@ -1,0 +1,27 @@
+{
+    "health": {
+        "title": "Starea aplicației",
+        "refresh.button": "Reîncărcare",
+        "stacktrace": "Stacktrace",
+        "details": {
+            "details": "Detalii",
+            "properties": "Proprietăți",
+            "name": "Nume",
+            "value": "Valoare",
+            "error": "Eroare"
+        },
+        "indicator": {
+            "diskSpace": "Spațiu disc",
+            "mail": "Email",
+            "db": "Bază de date"
+        },
+        "table": {
+            "service": "Nume serviciu",
+            "status": "Stare"
+        },
+        "status": {
+            "UP": "Sus",
+            "DOWN": "Jos"
+        }
+    }
+}
